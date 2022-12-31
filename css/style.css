@@ -1,0 +1,76 @@
+/*
+ * General Styles
+*/
+
+
+
+
+p {
+  font-size: 16px;
+  line-height: 1.75;
+  margin-bottom: 28px;
+}
+
+
+
+h1, h2 {
+  font-family: 'Lobster', cursive;
+  color: #e22f8f;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+h1 {
+
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+/*
+ * Container Styles
+*/
+
+.container {
+  width: 600px;
+  margin: 100px auto;
+  background: #FFF;
+  border-radius:20px 20px 0px 0px;
+   
+}
+body{
+  color: black;
+  background-image: url(../images/space-background.png);
+
+}
+
+.hero img {
+border-radius:20px 20px 0px 0px; 
+}
+
+aside.left{
+  float: right;
+}
+aside.right{
+  float: left;
+}
+
+.contact {
+padding: 15px;
+margin: 0%;
+
+}
+.intro{
+  padding: 15px;
+  margin: 2px;
+}
+.ajay{
+  padding: 0px;
+}
+.ajay2
+{
+  text-align: center;
+}
+
